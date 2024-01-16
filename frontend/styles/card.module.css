@@ -1,0 +1,21 @@
+.cardcolor{
+    background: linear-gradient(to bottom, #313632, #191e47, #26101b);
+}
+
+.cardcolor1{
+    background: linear-gradient(to bottom, #202923, #184d29);
+}
+
+
+.cardcolor2 {
+    background: linear-gradient(to bottom, #313632, #191e47, #26101b);
+}
+
+
+
+
+
+.card-description {
+    color: white;
+    font-size: 12px;
+  }

@@ -1,0 +1,26 @@
+.input-container {
+    margin-bottom:  4rem;
+  }
+.input {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #929294;
+    border-radius: 0.25rem;
+    color: rgb(255, 253, 253);
+    background-color: #414142;
+  }
+  .input::placeholder {
+    color: #ffffff; 
+  }
+  
+  .buttonstyle {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #8a3a87; 
+    color: black;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    font-size:larger;
+  }
